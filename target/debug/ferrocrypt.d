@@ -1,1 +1,0 @@
-/home/logith9312/ferrocrypt/target/debug/ferrocrypt: /home/logith9312/ferrocrypt/src/crypto.rs /home/logith9312/ferrocrypt/src/main.rs /home/logith9312/ferrocrypt/src/storage.rs /home/logith9312/ferrocrypt/src/sync.rs /home/logith9312/ferrocrypt/src/ui.rs
